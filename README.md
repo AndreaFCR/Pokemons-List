@@ -1,6 +1,6 @@
 ![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
 
-# Mid-term evaluation of module 2 - Promo Jemison - Adalab
+# Mid-term evaluation of module 3 - Promo Jemison - Adalab
 
 Task for mid-term evaluation of module 3.  Task's aim is to develop a web app to show a list of 10 pokemon cards using react components.
 
